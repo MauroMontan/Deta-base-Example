@@ -1,0 +1,1 @@
+{"id":"70c386ec-0058-442f-b789-8b210a629935","space":3466,"runtime":"python3.7","name":"deta_database","path":"0xsxr1","project":"b0l8hg88","account":"144798365827","region":"us-west-1","deps":["fastapi","deta","python-dotenv"],"envs":null,"public":true,"log_level":"debug","cron":""}
